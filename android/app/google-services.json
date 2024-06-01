@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276947345340",
+    "project_id": "firstfire-6d709",
+    "storage_bucket": "firstfire-6d709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276947345340:android:f6d1696043b0e31e4d55b9",
+        "android_client_info": {
+          "package_name": "com.example.advanced"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0rJabPCIFG7s2jXtn3LkbBDgi02fhT3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276947345340:android:401f1e756c54d6a34d55b9",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0rJabPCIFG7s2jXtn3LkbBDgi02fhT3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
